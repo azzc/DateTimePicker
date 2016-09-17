@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="arrow_dropdown">img/ic_arrow_drop_down_48px-128.png</file>
+    </qresource>
+</RCC>
